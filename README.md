@@ -12,9 +12,9 @@ This project models the core processes of an animal shelter, including:
 
 ## Structure
 
-- `schema.sql` – table definitions, primary and foreign keys, and constraints  
+- `physical_model.sql` – table definitions, primary and foreign keys, and constraints  
 - `sample_data.sql` – example data for testing  
-- `permissions.sql` – access rights  
+- `access_rights.sql` – access rights  
 
 ## Main entities
 
